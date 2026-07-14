@@ -1,0 +1,8 @@
+{
+  "name": "SOC Log Analyzer",
+  "description": "A professional Security Operations Center tool to analyze IDS and network packet logs, generating formal security reports in the Azerbaijan language.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
